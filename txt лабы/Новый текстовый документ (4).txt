@@ -1,0 +1,81 @@
+using System;
+
+class Program
+{
+
+
+    static void Main(string[] args)
+    {
+        Worker worker = new Worker("Petrov", "Ivanovich", 56, "Male", 30, "Concrete mixer", "Jugachvili");
+        worker.info();
+        Engineer engineer = new Engineer("Ivan", "Petrovich", 36, "Male", 16, "Engineer", "Jugachvili", "Mixer");
+        engineer.info1();
+        Administrator administrator = new Administrator("Jugachvili", "Genadivich", 89, "Male", 60, "Owner", "Non", 123);
+        administrator.info2();
+    }
+    class Cadres
+    {
+        protected int age;
+        protected string name;
+        protected string SecondName;
+        protected int experienceAge;
+        protected string gender;
+        public Cadres(string name, string SecondName, int age, string gender, int experienceAge)
+        {
+            this.age = age;
+
+            this.name = name;
+            this.SecondName = SecondName;
+            this.gender = gender;
+            this.experienceAge = experienceAge;
+
+        }
+
+    }
+    class Worker : Cadres
+    {
+        protected string position;
+        protected string chief;
+        public Worker(string name, string SecondName, int age, string gender, int experienceAge, string position, string chief) : base(name, SecondName, age, gender, experienceAge)
+        {
+
+            this.chief = chief;
+
+            this.position = position;
+        }
+
+        public void info()
+        {
+            Console.WriteLine("Name - {0}, Second Name - {1}, age - {2}, gender - {3}, experience age - {4}, position - {5}, chief - {6}", name, SecondName, age, gender, experienceAge, position, chief);
+        }
+    }
+        class Engineer : Worker
+        {
+            private string ServicedMachine;
+            public Engineer(string name, string SecondName, int age, string gender, int experienceAge, string position, string chief, string ServicedMachine) : base(name, SecondName, age, gender, experienceAge, position, chief)
+            {
+                this.ServicedMachine = ServicedMachine;
+            }
+
+            public void info1()
+            {
+                Console.WriteLine("Name - {0}, Second Name - {1}, age - {2}, gender - {3}, experience age - {4}, position - {5}, chief - {6}, Serviced Machine - {7}", name, SecondName, age, gender, experienceAge, position, chief, ServicedMachine);
+            }
+
+        }
+    class Administrator : Worker
+    {
+        private int workers;
+        public Administrator(string name, string SecondName, int age, string gender, int experienceAge, string position, string chief, int workers) : base(name, SecondName, age, gender, experienceAge, position, chief)
+        {
+            this.workers = workers;
+        }
+
+        public void info2()
+        {
+            Console.WriteLine("Name - {0}, Second Name - {1}, age - {2}, gender - {3}, experience age - {4}, position - {5}, chief - {6}, num of workers - {7}", name, SecondName, age, gender, experienceAge, position, chief, workers);
+        }
+
+    }
+}
+

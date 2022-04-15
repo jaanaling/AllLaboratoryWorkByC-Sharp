@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDim", "WindowsFormsApp11\ThreeDim.csproj", "{37992A3C-DCE6-43AB-A30C-0430175D524D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Мяч_прыгает__анимация_", "Мяч_прыгает__анимация_\Мяч_прыгает__анимация_.csproj", "{33DBB9A0-E9AA-404D-8BD2-86BA6E324659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37992A3C-DCE6-43AB-A30C-0430175D524D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37992A3C-DCE6-43AB-A30C-0430175D524D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37992A3C-DCE6-43AB-A30C-0430175D524D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37992A3C-DCE6-43AB-A30C-0430175D524D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DBB9A0-E9AA-404D-8BD2-86BA6E324659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DBB9A0-E9AA-404D-8BD2-86BA6E324659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DBB9A0-E9AA-404D-8BD2-86BA6E324659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DBB9A0-E9AA-404D-8BD2-86BA6E324659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9150B618-6031-4D7C-9804-EEF871982578}
+	EndGlobalSection
+EndGlobal

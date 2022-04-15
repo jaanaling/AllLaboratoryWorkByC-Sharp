@@ -1,0 +1,64 @@
+using System;
+
+class Program
+{
+
+
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Введите длину a: ");
+       double a = Double.Parse(Console.ReadLine());
+        
+        Square square = new Square(a);
+        square.S();
+        Circle circle = new Circle(a);
+        circle.S2();
+        Сylinder сylinder = new Сylinder(a, 4);
+        сylinder.S2();
+        Ball ball = new Ball(a);
+        ball.S2();
+    }
+    class Square
+    {   protected double a;
+        public Square(double a)
+        {
+            this.a = a;       
+        }
+      public void S()
+        {
+           Console.WriteLine("Площадь квадрата: "+Math.Pow(a, 2));
+        }
+    }
+    class Circle: Square
+    {
+        public Circle(double a):base(a){}
+        public void S2()
+        {
+            Console.WriteLine("Площадь круга: " + Math.Pow(a, 2)*3.14);
+        }
+    }
+    class Сylinder : Square
+    {
+        protected double h;
+        public Сylinder(double a, double h) : base(a)
+        {
+            this.h=h;
+    }
+        public void S2()
+        {
+            Console.WriteLine("Площадь цилиндра: " + ((this.a * 2 * Math.PI * this.h) + (this.a * 4 * Math.PI)));
+
+        }
+    }
+
+    class Ball : Square
+    {
+        
+        public Ball(double a) : base(a){ }
+        public void S2()
+        {
+            Console.WriteLine("Площадь шара: " + 4 * 3.14 * Math.Pow(a, 2));
+        }
+    }
+}
+

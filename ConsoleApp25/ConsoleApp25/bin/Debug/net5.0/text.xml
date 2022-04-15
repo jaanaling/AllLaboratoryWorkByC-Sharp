@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<groups>
+  <group>
+    <name>"Five Finger Death Punch"</name>
+    <genre>Metal</genre>
+    <country>USA</country>
+  </group>
+ <group>
+    <name>"Black Sabbath"</name>
+    <genre>Hard-Rock</genre>
+    <country>UK</country>
+  </group>
+<group>
+    <name>"Deep Purple"</name>
+    <genre>Rock</genre>
+    <country>UK</country>
+  </group>
+</groups>

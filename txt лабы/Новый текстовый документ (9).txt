@@ -1,0 +1,55 @@
+using System;
+using System.Text.RegularExpressions;
+
+public class Test
+{
+
+    public static void Main()
+    {
+        
+        Console.Write("Строка: ");
+        string s = Console.ReadLine();
+        Console.Write("Элемент 1: ");
+        char x = Convert.ToChar(Console.ReadLine());
+        Console.Write("Элемент 2: ");
+        char y = Convert.ToChar(Console.ReadLine());
+        int count_x = 0;
+        int count_y = 0;
+        count_x = CountChar(x, s);
+        count_y = CountChar(y, s);
+        if (count_x > count_y)
+        {
+            Console.WriteLine("Символ {0} встречается чаще", x);
+        }
+        else if (count_x < count_y)
+        {
+            Console.WriteLine("Символ {0} встречается чаще", y);
+        }
+        else if (count_x == 0)
+        {
+            Console.WriteLine("Символы {0} и {1} отсутствуют", x, y);
+        }
+        else
+        {
+            Console.WriteLine("Символы {0} и {1} встречается одинаковое количество раз", x, y);
+        }
+
+
+        static int CountChar(char chr, string a)
+        {
+            int i, count = 0;
+            for (i = 0; i < a.Length; i++)
+            {
+                if (a[i] == chr)
+                {
+                    count++;
+                }
+            }
+            Console.WriteLine("Cимвол '{0}' встречается {1} раз(а)", chr, count);
+            return count;
+
+        }
+
+    }
+}
+//////////////////////////////////////////

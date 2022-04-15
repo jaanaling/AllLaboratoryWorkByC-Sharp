@@ -1,0 +1,69 @@
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\Window1.g.cs
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\Window1.baml
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Jaanaling\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\Window1.g.cs
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\Window1.baml
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+F:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\Window1.g.cs
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\Window1.baml
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+D:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.SuggestedBindingRedirects.cache
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\Window1.g.cs
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\Window1.baml
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+E:\лабы\уп по прог\лаб76\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb

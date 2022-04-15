@@ -1,0 +1,142 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+
+namespace Hello
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            string path1 = "C:\\TEMP1";
+            string subpath1 = "TEMP1";
+            string path2 = "C:\\TEMP2";
+            string path3 = "C:\\Tekst";
+            string txt = "C:\\Tekst\\block.txt";
+            string newtxt = "C:\\TEMP2\\TEMP1\\block.txt";
+            DirectoryInfo dirInfo1 = new DirectoryInfo(path1);
+            DirectoryInfo dirInfo2 = new DirectoryInfo(path2);
+            FileInfo fileInf = new FileInfo(txt);
+            if (!dirInfo1.Exists)
+            {
+                dirInfo1.Create();
+
+            }
+            dirInfo1.CreateSubdirectory(subpath1);
+            if (!dirInfo2.Exists)
+            {
+                dirInfo2.Create();
+
+            }
+
+            //if (dirInfo1.Exists && Directory.Exists(path2) == false)
+            //{
+            //    dirInfo1.MoveTo(path2);
+            //}
+
+
+            //if (!fileInf.Exists)
+            //{
+            //    fileInf.Create();
+            //}
+
+
+
+            //if (fileInf.Exists)
+            //{
+            //    fileInf.MoveTo(newtxt);
+
+            //}
+
+
+        }
+    }
+}
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+using System;
+using System.Collections.Generic;
+using System.IO;
+
+namespace Hello
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            foreach (var drive in DriveInfo.GetDrives())
+            {
+               
+                    Console.WriteLine("Имя диска: " + drive.Name);
+                    Console.WriteLine("Файловая система: " + drive.DriveFormat);
+                    Console.WriteLine("Тип диска: " + drive.DriveType);
+                    Console.WriteLine("Объем доступного свободного места (в байтах): " + drive.AvailableFreeSpace);
+                    Console.WriteLine("Готов ли диск: " + drive.IsReady);
+                    Console.WriteLine("Корневой каталог диска: " + drive.RootDirectory);
+                    Console.WriteLine("Общий объем свободного места, доступного на диске (в байтах): " + drive.TotalFreeSpace);
+                    Console.WriteLine("Размер диска (в байтах): " + drive.TotalSize);
+                 
+                
+               
+
+                Console.WriteLine();
+            }
+
+
+        }
+    }
+}
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+using System;
+using System.Collections.Generic;
+using System.IO;
+
+namespace Hello
+{
+    class Program
+    {
+        
+            static void Main(string[] args)
+            {
+                {
+                    
+                string str1 = "";
+                    Console.WriteLine("Введите значение N: ");
+                   int N =Int32.Parse(Console.ReadLine());
+                    if (N > 26)
+                {
+                    Console.WriteLine("N задан не верно, значение измененно на 26: ");
+                    N = 26; 
+                }
+                    else if (N < 1) {
+                    Console.WriteLine("N задан не верно, значение измененно на 1: ");
+                    N = 1;
+                }
+                    for (int i = 1; i <= N; i++)
+                    {
+                   str1 = str1 + Convert.ToChar(i + 64);
+                  string str2 = "";
+                    for (int j = i; j < N; j++)
+                        {
+                            str2 = str2 + '*';
+                        }
+                   string  str3 = str1 + str2;
+                        Console.WriteLine("<<" + str3 + ">>");
+                    
+                    string txt = "c:\\Tekst\\test.txt";
+                    StreamWriter sw = new StreamWriter(txt, true);
+                    sw.WriteLine("<<" + str3 + ">>");
+                    sw.Close();
+
+                    }
+                }
+
+            }
+        }
+    }
+
+

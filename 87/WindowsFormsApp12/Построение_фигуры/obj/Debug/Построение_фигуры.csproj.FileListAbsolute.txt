@@ -1,0 +1,9 @@
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Построение_фигуры\bin\Debug\Построение_фигуры.exe.config
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Построение_фигуры\bin\Debug\Построение_фигуры.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Построение_фигуры\bin\Debug\Построение_фигуры.pdb
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Построение_фигуры\obj\Debug\Построение_фигуры.Form1.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Построение_фигуры\obj\Debug\Построение_фигуры.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Построение_фигуры\obj\Debug\Построение_фигуры.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Построение_фигуры\obj\Debug\Построение_фигуры.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Построение_фигуры\obj\Debug\Построение_фигуры.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Построение_фигуры\obj\Debug\Построение_фигуры.pdb

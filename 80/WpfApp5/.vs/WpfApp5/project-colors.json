@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7cf4dafe-3a2f-4b61-9ea8-ce89ab3f2beb": {
+      "ProjectGuid": "7cf4dafe-3a2f-4b61-9ea8-ce89ab3f2beb",
+      "DisplayName": "WpfApp5",
+      "ColorIndex": 0
+    },
+    "452253df-cbf7-41e1-9899-daa389073dfc": {
+      "ProjectGuid": "452253df-cbf7-41e1-9899-daa389073dfc",
+      "DisplayName": "WpfApp1",
+      "ColorIndex": 1
+    },
+    "1dc57805-85cb-4b7e-a4a4-bc3d9e40a61b": {
+      "ProjectGuid": "1dc57805-85cb-4b7e-a4a4-bc3d9e40a61b",
+      "DisplayName": "WpfApp2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6511771-02ed-45f6-8f04-1aebac62a066": {
+      "ProjectGuid": "c6511771-02ed-45f6-8f04-1aebac62a066",
+      "DisplayName": "WindowsFormsApp5",
+      "ColorIndex": 0
+    },
+    "430aa12b-e95b-439a-a729-885fa5d72cea": {
+      "ProjectGuid": "430aa12b-e95b-439a-a729-885fa5d72cea",
+      "DisplayName": "WindowsFormsApp4",
+      "ColorIndex": 1
+    },
+    "43d49bd4-c1d1-4740-bf58-520403890bd1": {
+      "ProjectGuid": "43d49bd4-c1d1-4740-bf58-520403890bd1",
+      "DisplayName": "WindowsFormsApp3",
+      "ColorIndex": 2
+    },
+    "c9063835-594a-4b76-b30c-2389b0a12f0e": {
+      "ProjectGuid": "c9063835-594a-4b76-b30c-2389b0a12f0e",
+      "DisplayName": "WindowsFormsApp2",
+      "ColorIndex": 3
+    },
+    "189cf704-7a3f-40de-ab8f-98da8fa2fc5d": {
+      "ProjectGuid": "189cf704-7a3f-40de-ab8f-98da8fa2fc5d",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 4
+    },
+    "3e0cdeb3-31d9-4b20-9155-08e64748e6ab": {
+      "ProjectGuid": "3e0cdeb3-31d9-4b20-9155-08e64748e6ab",
+      "DisplayName": "WindowsFormsApp9",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

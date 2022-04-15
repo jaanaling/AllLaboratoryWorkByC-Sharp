@@ -1,0 +1,9 @@
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация\bin\Debug\Анимация.exe.config
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация\bin\Debug\Анимация.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация\bin\Debug\Анимация.pdb
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация\obj\Debug\Анимация.Form1.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация\obj\Debug\Анимация.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация\obj\Debug\Анимация.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация\obj\Debug\Анимация.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация\obj\Debug\Анимация.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация\obj\Debug\Анимация.pdb

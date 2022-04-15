@@ -1,0 +1,14 @@
+E:\vs\ConsoleApp4\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+E:\vs\ConsoleApp4\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+E:\vs\ConsoleApp4\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+E:\vs\ConsoleApp4\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+E:\vs\ConsoleApp4\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+E:\vs\ConsoleApp4\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+E:\vs\ConsoleApp4\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.AssemblyReference.cache
+E:\vs\ConsoleApp4\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\ConsoleApp4\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+E:\vs\ConsoleApp4\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+E:\vs\ConsoleApp4\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\vs\ConsoleApp4\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+E:\vs\ConsoleApp4\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+E:\vs\ConsoleApp4\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кристал\bin\Debug\Кристал.exe.config
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кристал\bin\Debug\Кристал.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кристал\bin\Debug\Кристал.pdb
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кристал\obj\Debug\Кристал.Form1.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кристал\obj\Debug\Кристал.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кристал\obj\Debug\Кристал.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кристал\obj\Debug\Кристал.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кристал\obj\Debug\Кристал.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кристал\obj\Debug\Кристал.pdb

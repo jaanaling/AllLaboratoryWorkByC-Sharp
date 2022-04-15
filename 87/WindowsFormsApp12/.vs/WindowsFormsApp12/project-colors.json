@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f99224f-db13-43ac-95fc-df67537762ac": {
+      "ProjectGuid": "3f99224f-db13-43ac-95fc-df67537762ac",
+      "DisplayName": "что_то",
+      "ColorIndex": 0
+    },
+    "d89fd8af-c23e-4fb0-bbc1-aa03c8001804": {
+      "ProjectGuid": "d89fd8af-c23e-4fb0-bbc1-aa03c8001804",
+      "DisplayName": "Построение_фигуры",
+      "ColorIndex": 1
+    },
+    "b9e1007a-db99-4ede-81b2-4c3facab0f4f": {
+      "ProjectGuid": "b9e1007a-db99-4ede-81b2-4c3facab0f4f",
+      "DisplayName": "Кристал",
+      "ColorIndex": 2
+    },
+    "fa0cb54c-7b12-44a2-9ab2-57e7870ae533": {
+      "ProjectGuid": "fa0cb54c-7b12-44a2-9ab2-57e7870ae533",
+      "DisplayName": "Кольца",
+      "ColorIndex": 3
+    },
+    "08fdc3c3-8473-4745-84d9-14d4b60b65c8": {
+      "ProjectGuid": "08fdc3c3-8473-4745-84d9-14d4b60b65c8",
+      "DisplayName": "Звезда",
+      "ColorIndex": 4
+    },
+    "96204729-8c50-4fbe-8c3d-441d45451881": {
+      "ProjectGuid": "96204729-8c50-4fbe-8c3d-441d45451881",
+      "DisplayName": "Загрузка",
+      "ColorIndex": 5
+    },
+    "ec3d503a-ba74-4ade-8477-e8e594ad0795": {
+      "ProjectGuid": "ec3d503a-ba74-4ade-8477-e8e594ad0795",
+      "DisplayName": "Губка",
+      "ColorIndex": 6
+    },
+    "87348e21-9f25-4bc5-b938-130986ed8819": {
+      "ProjectGuid": "87348e21-9f25-4bc5-b938-130986ed8819",
+      "DisplayName": "Анимация_круги",
+      "ColorIndex": 7
+    },
+    "e2da53fe-c8d1-4c7d-aa49-980965076328": {
+      "ProjectGuid": "e2da53fe-c8d1-4c7d-aa49-980965076328",
+      "DisplayName": "Анимация",
+      "ColorIndex": 8
+    },
+    "caee06bb-5ecb-45a9-b36c-0083b8988a2e": {
+      "ProjectGuid": "caee06bb-5ecb-45a9-b36c-0083b8988a2e",
+      "DisplayName": "WindowsFormsApp12",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

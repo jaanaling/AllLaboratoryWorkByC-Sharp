@@ -1,0 +1,9 @@
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кольца\obj\Debug\Кольца.Form1.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кольца\obj\Debug\Кольца.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кольца\obj\Debug\Кольца.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кольца\obj\Debug\Кольца.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кольца\bin\Debug\Кольца.exe.config
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кольца\bin\Debug\Кольца.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кольца\bin\Debug\Кольца.pdb
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кольца\obj\Debug\Кольца.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Кольца\obj\Debug\Кольца.pdb

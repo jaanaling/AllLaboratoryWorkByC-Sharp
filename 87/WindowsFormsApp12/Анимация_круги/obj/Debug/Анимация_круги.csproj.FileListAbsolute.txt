@@ -1,0 +1,9 @@
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация_круги\bin\Debug\Анимация_круги.exe.config
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация_круги\bin\Debug\Анимация_круги.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация_круги\bin\Debug\Анимация_круги.pdb
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация_круги\obj\Debug\Анимация_круги.Form1.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация_круги\obj\Debug\Анимация_круги.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация_круги\obj\Debug\Анимация_круги.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация_круги\obj\Debug\Анимация_круги.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация_круги\obj\Debug\Анимация_круги.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Анимация_круги\obj\Debug\Анимация_круги.pdb

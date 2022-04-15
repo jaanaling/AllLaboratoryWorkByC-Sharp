@@ -1,0 +1,51 @@
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Track track = new Track(140, 2, "Volga", "Металл", "Петров", 120, 22234, 10);
+
+        track.Info();
+
+    }
+
+    abstract class Car
+    {
+
+        protected int peoples;
+        protected int speed;
+        protected string material;
+        protected string mark;
+        protected string owner;
+
+        public Car(int speed, int peoples, string mark, string material, string owner)
+        {
+            this.speed = speed;
+            this.peoples = peoples;
+            this.mark = mark;
+            this.material = material;
+            this.owner = owner;
+        }
+        public virtual void Info() { }
+
+    }
+    class Track : Car
+    {
+        private double body;
+        public double mileage;
+        internal int wheels;
+        public Track(int speed, int peoples, string mark, string material, string owner, double body, double mileage, int wheels) : base(speed, peoples, mark, material, owner)
+        {
+            this.mileage = mileage;
+            this.body = body;
+            this.wheels = wheels;
+        }
+        public override void Info()
+    {
+        Console.WriteLine("Вместимость - " + this.peoples + ", Производитель - " + this.mark + ", Скорость - " + this.speed + "км/ч , материал - " + this.material + ", владелец - " + this.owner+ ", размер кузова -  "+this.body +" м2, пробег - "+this.mileage+"км , количество колёс - "+this. wheels);
+    } 
+
+    }
+    
+}

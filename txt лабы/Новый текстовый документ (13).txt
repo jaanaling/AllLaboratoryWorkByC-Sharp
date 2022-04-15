@@ -1,0 +1,269 @@
+using System;
+using System.Text.RegularExpressions;
+
+public class Test
+{ struct Rainbow {
+        public enum Color { Красный, Оранджевый, Желтый, Зелёный, Синий, Фиолетовый };   
+        public Color color;
+ }
+    
+    public static void Main()
+    {
+      Rainbow rainbow;
+        rainbow.color = Rainbow.Color.Красный;
+        for (int i = 1; i < 7; i++)
+        {Console.WriteLine("Цвет {0}: {1}", i, rainbow.color); //Вывод на консоль 
+            if (rainbow.color < Rainbow.Color.Фиолетовый) ++rainbow.color;
+
+            
+        }
+
+        Console.ReadLine();
+    }
+   
+    }
+//////////////////////
+
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.Write("Введите имя студента: ");
+        string n = Console.ReadLine();
+        Console.Write("Введите оценку студента: ");
+        int m = Int32.Parse(Console.ReadLine());
+        Student student = new Student(n, m);
+        student.SetMarkExam(); 
+        Console.WriteLine("Имя = {0} , Оценка за экзамен = {1} ", student.GetName(), student.GetMarkExam()); 
+        
+    }
+    struct Student
+{ 
+    int mark;
+    int markExam;
+    string name; 
+    public Student(string name, int mark)
+    {
+        this.name = name;
+        this.mark = mark;
+        this.markExam = 0;
+    }
+ 
+    public string GetName()
+    {
+        return name;
+    }
+    public int GetMarkExam()
+    {
+        return markExam;
+    }
+    public void SetMarkExam()
+    {
+        markExam = mark;
+    }
+}
+} 
+
+
+//////////////////////////////////////////////
+
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.Write("Введите радиус круга: ");
+        double r = Double.Parse(Console.ReadLine());
+        Sircle student = new Sircle(r);
+        student.SetS(); 
+        Console.WriteLine("Радиус = {0} , Площадь = {1} ", student.GetR(), student.GetS()); 
+        
+    }
+    struct Sircle
+{ 
+    double S;
+    double R;
+        double P;
+    public Sircle(double R)
+    {
+        this.S = 0;
+        this.R = R;
+        this.P = 3.14;
+    }
+        public double GetS()
+        {
+            return S;
+        }
+        public void SetS()
+    {
+        S=4*P*Math.Pow(R,2);
+    }
+    public double GetR()
+    {
+        return R;
+    }
+    public double GetP()
+    {
+            return P;
+        }
+}
+} 
+
+
+//////////////////////////////////////
+
+using System;
+using System.Text.RegularExpressions;
+
+public class Test
+{
+    struct Week
+    {
+        public enum Wk { Понедельник=1, Вторник=2, Среда=3, Четверг=4, Пятница=5, Суббота=6, Воскрессение=7 };   
+        public Wk wk;
+    }
+    static void Ver(int a)
+    {
+        Week week;
+        
+            if (a%7==0)
+            {
+                week.wk = Week.Wk.Воскрессение;
+                Console.WriteLine("День {0}: {1}", a, week.wk);
+            }
+            else if (a % 6 == 0)
+            {
+                week.wk = Week.Wk.Суббота;
+                Console.WriteLine("День {0}: {1}", a, week.wk);
+            }
+            else if (a % 5 == 0)
+            {
+                week.wk = Week.Wk.Пятница;
+                Console.WriteLine("День {0}: {1}", a, week.wk);
+
+            }
+            else if (a % 4 == 0)
+            {
+                week.wk = Week.Wk.Четверг;
+                Console.WriteLine("День {0}: {1}", a, week.wk);
+            }
+            else if (a % 3 == 0)
+            {
+                week.wk = Week.Wk.Среда;
+                Console.WriteLine("День {0}: {1}", a, week.wk);
+            }
+           else if (a % 2 == 0)
+            {
+                week.wk = Week.Wk.Вторник;
+                Console.WriteLine("День {0}: {1}", a, week.wk);
+            }
+            else
+            {
+                week.wk = Week.Wk.Понедельник;
+                Console.WriteLine("День {0}: {1}", a, week.wk);
+            }
+        
+
+
+    }
+
+    
+
+   
+    public static void Main()
+    {
+        Console.WriteLine("Введите день 1");
+        int a = Int32.Parse(Console.ReadLine());
+        Console.WriteLine("Введите день 2");
+        int b = Int32.Parse(Console.ReadLine());
+       
+        Week week;
+        Week wek;
+        week.wk = Week.Wk.Понедельник;
+        for (int i = 1; i < 8; i++)
+        {
+            Console.WriteLine("День {0}: {1}", i, week.wk); //Вывод на консоль 
+            if (week.wk < Week.Wk.Воскрессение) ++week.wk;
+
+
+        }
+        Console.WriteLine();
+         Ver(a);
+        Ver(b);
+        week.wk = Week.Wk.Понедельник;
+        int f = (int)week.wk;
+        wek.wk = Week.Wk.Суббота;
+        int g = (int)wek.wk;
+        Console.WriteLine("Между {0} и {1} осталось {2} дней", week.wk, wek.wk, Math.Abs(f-g));
+
+    }
+
+}
+
+//////////////////////////////////////////
+
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.Write("Строку: ");
+        string s = Console.ReadLine();
+        Console.Write("Число: ");
+        int i = Int32.Parse(Console.ReadLine());
+        Console.Write("Знак: ");
+        char c =Convert.ToChar (Console.ReadLine());
+        Sircle student = new Sircle(s, i, c);
+        Sircle student2 = new Sircle(s, i);
+        Sircle student3 = new Sircle(s);
+        Console.WriteLine("Строка = {0} , Число = {1}, Знак = {2} ", student.GetS(), student.GetI(), student.GetC());
+        Console.WriteLine("Строка = {0} , Число = {1}, Знак = {2} ", student2.GetS(), student2.GetI(), student2.GetC());
+        Console.WriteLine("Строка = {0} , Число = {1}, Знак = {2} ", student3.GetS(), student3.GetI(), student3.GetC());
+
+    }
+    struct Sircle
+    {
+        string s;
+        int i;
+        char c;
+        public Sircle(string s)
+        {
+            this.s = s;
+            this.i = 0;
+            this.c = ' ';
+
+        }
+        public Sircle(string s, int i)
+        {
+            this.s = s;
+            this.i = i;
+            this.c = ' ';
+
+        }
+        public Sircle(string s, int i, char c)
+        {
+            this.s = s;
+            this.i = i;
+            this.c = c;
+        }
+        public string GetS()
+        {
+            return s;
+        }
+        public int GetI()
+        {
+            return i;
+        }
+        public char GetC()
+        {
+            return c;
+        }
+    
+       
+    }
+}
+

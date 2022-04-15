@@ -1,0 +1,70 @@
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        int speed1 = 140;
+        int speed2 = 100;
+        Car car = new Car(speed1,speed2, 4, "Tesla", "Пластик", "Петров");
+        IBoardInfo info = (IBoardInfo)car;
+        info.Status();
+
+        info.Doors();
+        info.Info();
+        Console.Write("Машина на дороге быстрее? - ");
+        info.Speed();
+
+    }
+    interface IBoardInfo
+    {
+        void Status();
+        void Doors();
+        void Speed();
+        void Info();
+
+    }
+    class Car: IBoardInfo
+    {
+        
+        protected int peoples;
+        protected int speed;
+        protected int speed2;
+        protected string material;
+        protected string mark;
+        protected string owner;
+
+        public Car(int speed, int speed2, int people, string mark, string material, string owner)
+        {
+            this.speed = speed;
+            this.speed2 = speed2;
+            this.peoples = people;
+            this.mark = mark;
+            this.material = material;
+            this.owner = owner;
+        }
+    
+        void IBoardInfo.Status()
+        {
+            Console.WriteLine("В движении");
+        }
+        void IBoardInfo.Doors()
+        {
+            Console.WriteLine("Двери закрыты");
+        }
+       void IBoardInfo.Speed()
+        {if (this.speed2 < this.speed)
+            { Console.WriteLine("Да"); }
+            else 
+                    {
+                Console.WriteLine("Нет");
+            }
+                
+        }
+        void IBoardInfo.Info()
+        {
+            Console.WriteLine("Вместимость - " + this.peoples + ", Производитель - " + this.mark + ", Скорость на дороге - " + this.speed + "км/ч, Скорость на бездорожье - " + this.speed2 + "км/ч , материал - " + this.material + ", владелец - " + this.owner); 
+        }
+    }
+
+}

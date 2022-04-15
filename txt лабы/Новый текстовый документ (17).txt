@@ -1,0 +1,89 @@
+using System;
+
+class Program
+{
+
+
+    static void Main(string[] args)
+    {
+        Console.Write("Введите длину строки: ");
+        int n = Int32.Parse(Console.ReadLine());
+        Random r = new Random();
+        int[] c = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            c[i] = r.Next(1, 50);
+            Console.Write("{0}  ", c[i]);
+        }
+        A a = new A(n, c);
+        a.Num();
+        B b = new B(n,c);
+        b.Num();
+    }
+    interface Inum
+    {
+        public void Num();
+    }
+    abstract class Abs
+    {
+        protected int[] a;
+        public Abs(int[] a)
+        {
+            this.a = a;
+        }
+        public abstract int sum();
+
+    }
+    class A : Abs, Inum
+    {
+        protected int n;
+        public A(int n, int[] a) : base(a)
+        {
+            this.n = n;
+        }
+        public override int sum()
+        {
+            int s = 0;
+            for (int i = 0; i < n; i++)
+            {
+                if (a[i] % 2 == 0)
+                {
+                    s = (s + a[i]);
+
+                }
+            }
+            return s;
+        }
+        public void Num()
+        {
+            int s = sum();
+            Console.WriteLine("Сумма чётных = {0}", s);
+        }
+    }
+    class B : Abs, Inum
+    {
+        protected int n;
+        public B(int n, int[] a) : base(a)
+        {
+            this.n = n;
+        }
+        public override int sum()
+        {  
+            int s = 0; 
+            for (int i = 0; i < n; i++)
+            {
+                if (a[i] % 2 == 1)
+                {
+                    s = (s + a[i]);
+                }
+            }
+            return s;
+        }
+        public void Num()
+        {
+            int s = sum();
+            Console.WriteLine("Сумма не чётных = {0}", s);
+        }
+    }
+
+}

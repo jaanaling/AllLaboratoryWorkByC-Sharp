@@ -1,0 +1,41 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="WpfApp3.Window1"
+        mc:Ignorable="d"
+        Title="Window1" Height="349" Width="309.149">
+    <Grid Margin="0,0,2,1" RenderTransformOrigin="0.5,0.5">
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="-0.317"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="108*"/>
+            <ColumnDefinition Width="191*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="26,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="49" Grid.Column="1" PreviewTextInput="textBox1_PreviewTextInput" Text="0">
+            <TextBox.Resources>
+                <System:String x:Key="String1">0</System:String>
+            </TextBox.Resources>
+        </TextBox>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="26,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="49" Grid.Column="1" Text="0" TextChanged="textBox2_TextChanged" PreviewTextInput="textBox2_PreviewTextInput"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" Margin="26,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="49" Grid.Column="1" Text="0" PreviewTextInput="textBox3_PreviewTextInput"/>
+        <Label Content="Radius" HorizontalAlignment="Left" Margin="61,50,0,0" VerticalAlignment="Top"/>
+        <Label Content="Height" HorizontalAlignment="Left" Margin="60,97,0,0" VerticalAlignment="Top"/>
+        <Label Content="Density" HorizontalAlignment="Left" Margin="57,148,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBox1" Content="Volume" HorizontalAlignment="Left" Margin="89,202,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <CheckBox x:Name="checkBox2" Content="Mass" HorizontalAlignment="Left" Margin="89,222,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Button x:Name="button1" Content="Close" Grid.Column="1" HorizontalAlignment="Left" Margin="0,263,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <TextBox x:Name="textBox12" HorizontalAlignment="Left" Height="23" Margin="92,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="49" Grid.Column="1" Text="0" PreviewTextInput="textBox12_PreviewTextInput"/>
+        <TextBox x:Name="textBox22" HorizontalAlignment="Left" Height="23" Margin="92,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="49" Grid.Column="1" Text="0" PreviewTextInput="textBox22_PreviewTextInput"/>
+        <TextBox x:Name="textBox32" HorizontalAlignment="Left" Height="23" Margin="92,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="49" Grid.Column="1" Text="0" PreviewTextInput="textBox32_PreviewTextInput"/>
+
+    </Grid>
+</Window>

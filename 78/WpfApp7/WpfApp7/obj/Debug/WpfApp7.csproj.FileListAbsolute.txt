@@ -1,0 +1,37 @@
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.AssemblyReference.cache
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\ListBoxGalleryTemplate.baml
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\ListBoxGalleryTemplate.g.cs
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\App.baml
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\Jaanaling\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.AssemblyReference.cache
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.SuggestedBindingRedirects.cache
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\ListBoxGalleryTemplate.baml
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\ListBoxGalleryTemplate.g.cs
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\App.baml
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+E:\лабы\уп по прог\78\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb

@@ -1,0 +1,9 @@
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\что_то\bin\Debug\что_то.exe.config
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\что_то\bin\Debug\что_то.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\что_то\bin\Debug\что_то.pdb
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\что_то\obj\Debug\что_то.Form1.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\что_то\obj\Debug\что_то.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\что_то\obj\Debug\что_то.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\что_то\obj\Debug\что_то.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\что_то\obj\Debug\что_то.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\что_то\obj\Debug\что_то.pdb

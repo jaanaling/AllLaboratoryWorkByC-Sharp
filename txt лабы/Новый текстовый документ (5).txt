@@ -1,0 +1,73 @@
+using System;
+
+class Program
+{
+
+
+    static void Main(string[] args)
+    {
+       
+        Engineer engineer = new Engineer("Jugachvili", "Genadivich", 89, "Male", 60, "engineer", "Bulgak", "engineer", "Mixer");
+        engineer.info();
+    }
+    class Person
+    {
+        protected int age;
+        protected string name;
+        protected string SecondName;
+       
+        protected string gender;
+        public Person(string name, string SecondName, int age, string gender)
+        {
+            this.age = age;
+
+            this.name = name;
+            this.SecondName = SecondName;
+            this.gender = gender;
+          
+
+        }
+
+    }
+    class Employee : Person
+    {
+      
+        protected string chief;
+        protected int experienceAge;
+        public Employee(string name, string SecondName, int age, string gender, int experienceAge,  string chief) : base(name, SecondName, age, gender)
+        {
+
+            this.chief = chief;
+            this.experienceAge = experienceAge;
+            
+        }
+
+        
+    }
+    class Worker: Employee
+    {
+        protected string Sphere;
+        public Worker(string name, string SecondName, int age, string gender, int experienceAge,  string chief, string Sphere) : base(name, SecondName, age, gender, experienceAge,  chief)
+        {
+            this.Sphere = Sphere;
+        }
+
+
+
+    }
+    class Engineer : Worker
+    {
+        private string ServicedMachine;
+        public Engineer(string name, string SecondName, int age, string gender, int experienceAge, string position, string chief, string Sphere, string ServicedMachine) : base(name, SecondName, age, gender, experienceAge, chief, Sphere)
+        {
+           this.ServicedMachine = ServicedMachine;
+        }
+
+        public void info()
+        {
+            Console.WriteLine("Name - {0}, Second Name - {1}, age - {2}, gender - {3}, experience age - {4},  chief - {5}, Sphere of work - {6}, Serviced machine - {7}", name, SecondName, age, gender, experienceAge, chief, Sphere, ServicedMachine);
+        }
+
+    }
+}
+

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp11", "WpfApp11\WpfApp11.csproj", "{937BE368-2A6E-48BC-B321-02E037774BF8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{86BB8CB2-2071-45E6-92A1-C49D3E44D092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{B84A2647-B85D-4FEA-B542-2A8215040A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937BE368-2A6E-48BC-B321-02E037774BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937BE368-2A6E-48BC-B321-02E037774BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937BE368-2A6E-48BC-B321-02E037774BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937BE368-2A6E-48BC-B321-02E037774BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BB8CB2-2071-45E6-92A1-C49D3E44D092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BB8CB2-2071-45E6-92A1-C49D3E44D092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BB8CB2-2071-45E6-92A1-C49D3E44D092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BB8CB2-2071-45E6-92A1-C49D3E44D092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84A2647-B85D-4FEA-B542-2A8215040A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84A2647-B85D-4FEA-B542-2A8215040A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84A2647-B85D-4FEA-B542-2A8215040A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84A2647-B85D-4FEA-B542-2A8215040A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DCD9B34-925F-4EF8-9BF9-302DB3890940}
+	EndGlobalSection
+EndGlobal

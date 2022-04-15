@@ -1,0 +1,11 @@
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\net5.0\ClassLibrary2.deps.json
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\net5.0\ClassLibrary2.dll
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\net5.0\ref\ClassLibrary2.dll
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\net5.0\ClassLibrary2.pdb
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.dll
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\net5.0\ref\ClassLibrary2.dll
+C:\Users\Jaanaling\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.pdb

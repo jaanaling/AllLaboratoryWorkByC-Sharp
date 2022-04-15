@@ -1,0 +1,116 @@
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        int n = 10;
+        int[] a = q(n);
+int[] b = q(n);
+        Console.Write("Массив а: ");
+        for (int i = 0; i < n; i++)
+        {
+
+            Console.Write("{0} ", a[i]);
+        }
+        Console.WriteLine();
+        Console.Write("Массив б: ");
+        for (int i = 0; i < n; i++)
+        {
+
+            Console.Write("{0} ", b[i]);
+        }
+        Console.WriteLine();
+        int s = 0;
+        try
+
+        {
+            Console.Write("Введите номер элемента массива а: ");
+
+            int i = Int32.Parse(Console.ReadLine());
+            Console.Write("Введите номер элемента массива б: ");
+            int g = Int32.Parse(Console.ReadLine());
+            s = a[i-1] + b[g-1];
+        }
+
+        catch (Exception ex)
+        {
+            Console.WriteLine("Ошибка: " + ex.Message);
+        }
+        finally
+        {
+            Console.WriteLine("Сумма = {0}",s);
+        }
+      
+    }
+    static public int[] q(int n)
+    {
+        int[] a = new int[n];
+        Random r = new Random();
+        for (int i = 0; i < n; i++)
+        {
+            a[i] = r.Next(0, 10);
+        }
+        return a;
+    }
+}
+//////////////////////////////
+
+using System;
+namespace Hello
+{
+    class Program
+    {
+        static double f(double x) //метод f
+        {
+            try
+            { //если х не попадает в область определения, то генерируется исключение 
+                if (x == -1)
+                { 
+                    throw new Exception();
+                }
+                else { 
+                    return Math.Sqrt((Math.Pow(x,2)-1)); 
+                }
+            }
+            catch
+            {
+                throw;
+            }
+        }
+        static void Main(string[] args)
+        {
+            try
+            {
+                Console.Write("Введите a(начало)=");
+                double a = Double.Parse(Console.ReadLine());
+                Console.Write("Введите b(конец)="); 
+                double b = Double.Parse(Console.ReadLine());
+                Console.Write("Введите h(шаг)="); 
+                double h = Double.Parse(Console.ReadLine());
+
+                for (double i = a; i <= b; i += h)
+                    try
+                    {
+                        Console.WriteLine("x={0}               y={1}",i, f(i));
+                    }
+                    catch
+                    {
+                        Console.WriteLine("x={0}               y=error", i);
+                    }
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Неверный формат ввода данных");
+            }
+            catch
+            {
+                Console.WriteLine("Неизвестная ошибка");
+            }
+        }
+    }
+}
+
+
+
+

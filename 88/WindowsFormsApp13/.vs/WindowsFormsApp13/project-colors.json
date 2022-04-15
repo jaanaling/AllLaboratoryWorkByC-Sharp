@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f1d9469-5f0d-4a31-8f9c-57f650c541c2": {
+      "ProjectGuid": "6f1d9469-5f0d-4a31-8f9c-57f650c541c2",
+      "DisplayName": "WindowsFormsApp13",
+      "ColorIndex": 0
+    },
+    "b69b864b-31f2-4e58-9120-5ac6b530ef83": {
+      "ProjectGuid": "b69b864b-31f2-4e58-9120-5ac6b530ef83",
+      "DisplayName": "Кнопки",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,308 @@
+using System;
+
+namespace ConsoleApp16
+{
+    class Program
+    {
+        static void Main()
+
+        {
+            Console.Write("Введите размерность массива");
+            int n = int.Parse(Console.ReadLine());
+            int[] mas = new int[n];
+
+            for (int i = 0; i < mas.Length; i++)
+            {
+                Console.WriteLine("mas[{0}]= ", i);
+                mas[i] = int.Parse(Console.ReadLine());
+            }
+
+            int el = 0;
+            for (int i = 0; i < mas.Length - 1; i++)
+            {
+                if (mas[i] == mas[i + 1])
+                {
+                    el++;
+                }
+            }
+
+            Console.WriteLine("Количество равных пар={0}", el);
+        }
+    }
+
+}
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+using System;
+
+namespace ConsoleApp16
+{
+    class Program
+    {
+        static void Main()
+        {
+            
+            Console.Write("n= ");
+            int n = int.Parse(Console.ReadLine());
+
+            Console.Write("m= ");
+            int m = int.Parse(Console.ReadLine());
+
+            int[][] mas = new int[n][];
+
+            for (int i = 0; i < mas.Length; i++)
+            {
+                mas[i] = new int[m];
+                for (int j = 0; j < mas[i].Length; j++)
+                {
+                    Console.Write("mas[{0}][{1}]= ", i, j);
+                    mas[i][j] = int.Parse(Console.ReadLine());
+                }
+            }
+
+
+            Console.WriteLine("Исходный массив:");
+
+
+            for (int i = 0; i < mas.Length; i++)
+            {
+                for (int j = 0; j < mas[i].Length; j++)
+                {
+                    Console.Write("{0} ", mas[i][j]);
+                }
+                Console.WriteLine();
+            }
+
+
+
+            int[] z;
+            int p = mas.Length;
+
+
+            for (int i = 0; i < (p / 2); i++)  //меняются местами  i-ая и (n-i-1)-ая строки 
+            {
+                z = mas[i];
+                mas[i] = mas[p - i - 1];
+                mas[p - i - 1] = z;
+            }
+
+
+            Console.WriteLine("Измененный  массив:");
+
+
+            for (int i = 0; i < mas.Length; i++)
+            {
+                for (int j = 0; j < mas[i].Length; j++)
+                {
+                    Console.Write("{0} ", mas[i][j]);
+                }
+                Console.WriteLine();
+         }
+        
+        
+        
+        
+        }
+
+
+    }
+
+
+}
+/////////////////////////////////////////////////////////////////////////////
+
+using System;
+
+namespace ConsoleApp16
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Введите m");
+            int m = Int32.Parse(Console.ReadLine());
+
+
+            Console.WriteLine("Введите n");
+            int n = Int32.Parse(Console.ReadLine());
+
+
+            int[,] mas = new int[m, n];
+
+            for (int j = 0; j < n; j++)
+            {
+                for (int i = 0; i < m; i++)
+                {
+                    mas[i, j] = 5 * j;
+                }
+            }
+
+
+            for (int j = 0; j < m; j++)
+            {
+                for (int i = 0; i < n; i++)
+                {
+                    Console.Write("{0}  ", mas[j, i]);
+
+                }
+                Console.WriteLine();
+            }
+            
+
+
+        }
+    }
+}
+
+////////////////////////////////////////////////////////////////////
+using System;
+
+namespace ConsoleApp16
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Введите m");
+            int m = Int32.Parse(Console.ReadLine());
+
+
+            Console.WriteLine("Введите n");
+            int n = Int32.Parse(Console.ReadLine());
+
+            
+            int[,] mas = new int[m, n];
+            int s = 0;
+            int p = 1;
+
+
+            for (int i = 0; i < m; i++)
+            {
+
+                for (int j = 0; j < n; j++)
+                {
+                    mas[i, j] = Int32.Parse(Console.ReadLine());
+                }
+
+            }
+            for (int i = 0; i < m; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    Console.Write("{0} ", mas[i, j]);
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine("Введите столбец, в котором надо посчитать сумму и произведение эелментов");
+            int k = Int32.Parse(Console.ReadLine());
+            if (k > 1 && k < n) {
+                for (int i = 0; i < m; i++)
+                {
+                    for (int j = k-1; j == k-1; j++)
+                    {
+                        p = p * mas[i, j];
+                        s = s + mas[i, j];
+                    }
+                    Console.WriteLine();
+                }
+                Console.WriteLine("Сумма=" + s + " произведение=" + p );
+            }
+            else
+            {
+                Console.WriteLine("K превышает лимит");
+            }
+           
+            
+            
+
+
+        }
+    }
+}
+/////////////////////////////////////////////////////////////////////
+using System;
+
+namespace ConsoleApp16
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Введите m");
+            int m = Int32.Parse(Console.ReadLine());
+
+
+            Console.WriteLine("Введите n");
+            int n = Int32.Parse(Console.ReadLine());
+
+            
+            int[,] mas = new int[m, n];
+
+            for (int i = 0; i < m; i++)
+            {
+
+                for (int j = 0; j < n; j++)
+                {
+                    mas[i, j] = Int32.Parse(Console.ReadLine());
+                }
+
+            }
+            for (int i = 0; i < m; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    Console.Write("{0} ", mas[i, j]);
+                }
+                Console.WriteLine();
+            }
+      
+
+            Console.WriteLine("Введите номера стобцов, которые надо поменять");
+            int k1 = Int32.Parse(Console.ReadLine());
+            int k2 = Int32.Parse(Console.ReadLine());
+            int t = 0;
+                int t1 = 0;
+            if (k1 < k2 && k1 > 0 && k2 < n)
+            {
+                for (int i = 0; i < m; i++)
+                {
+
+                    for (int j = 0; j < n; j++)
+                    {
+                        if (mas[i, j] == k1-1)
+                        {
+                            t = mas[i, j];
+                        }
+                        if (mas[i, j] == k2-1)
+                        {
+                            t1 = mas[i, j];
+                        }
+                        if (t1>0 && t > 0)
+                        {
+                             mas[i, k2-1]=t;
+                            mas[i, k1-1] = t1;
+                        }
+                    }
+
+                }
+                for (int i = 0; i < m; i++)
+                {
+                    for (int j = 0; j < n; j++)
+                    {
+                        Console.Write("{0} ", mas[i, j]);
+                    }
+                    Console.WriteLine();
+                }
+            }
+            else
+            {
+                Console.WriteLine("K превышает лимит");
+            }
+        }
+    }
+}

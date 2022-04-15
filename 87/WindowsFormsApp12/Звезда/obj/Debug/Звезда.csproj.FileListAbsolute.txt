@@ -1,0 +1,9 @@
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Звезда\bin\Debug\Звезда.exe.config
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Звезда\bin\Debug\Звезда.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Звезда\bin\Debug\Звезда.pdb
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Звезда\obj\Debug\Звезда.Form1.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Звезда\obj\Debug\Звезда.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Звезда\obj\Debug\Звезда.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Звезда\obj\Debug\Звезда.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Звезда\obj\Debug\Звезда.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Звезда\obj\Debug\Звезда.pdb

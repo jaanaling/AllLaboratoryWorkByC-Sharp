@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a85b1b71-a424-4d06-bccd-67e98307f9c7": {
+      "ProjectGuid": "a85b1b71-a424-4d06-bccd-67e98307f9c7",
+      "DisplayName": "WindowsFormsApp3",
+      "ColorIndex": 0
+    },
+    "40af5293-9c83-4c12-891a-bb99f70185d2": {
+      "ProjectGuid": "40af5293-9c83-4c12-891a-bb99f70185d2",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 1
+    },
+    "169c7c51-5326-4e14-b36f-e1ed718eee33": {
+      "ProjectGuid": "169c7c51-5326-4e14-b36f-e1ed718eee33",
+      "DisplayName": "WindowsFormsApp2",
+      "ColorIndex": 2
+    },
+    "5e35dffe-3501-45bc-b36c-7547b6efc5f3": {
+      "ProjectGuid": "5e35dffe-3501-45bc-b36c-7547b6efc5f3",
+      "DisplayName": "WindowsFormsApp9",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

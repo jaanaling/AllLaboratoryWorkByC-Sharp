@@ -1,0 +1,342 @@
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Введите размернсть массива: ");
+        int n = Int32.Parse(Console.ReadLine());
+
+        int[] a = A(n);
+        int[] b = A(n); ;
+        int[] c = C(n,a,b);
+        int[] d = D(n, a, b);
+        Console.Write("Массив а: ");
+        for (int i = 0; i < n; i++)
+        {
+     
+            Console.Write("{0} ", a[i]);
+        }
+        Console.WriteLine();
+        Console.Write("Массив б: ");
+        for (int i = 0; i < n; i++)
+        {
+         
+            Console.Write("{0} ", b[i]);
+        } 
+        Console.WriteLine();
+        Console.Write("Массив с: ");
+       
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write("{0} ", c[i]);
+        }
+        Console.WriteLine();
+        Console.Write("Массив d: ");
+        
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write("{0} ", d[i]);
+        }
+    }
+
+     static public int[] A(int n)
+    {
+        int[] a = new int[n];
+        Random r = new Random();
+        for (int i = 0; i < n; i++)
+        {
+            a[i] = r.Next(0, 10);
+        }
+        return a;
+    }
+    static public int[] C(int n, int[]a,int[]b)
+    {
+        int[] c = new int[n];
+        
+        try
+        {
+            for (int i = 0; i < n; i++)
+            {
+                c[i] = a[i] / b[i];
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Ошибка: " + ex.Message);
+        }
+      
+        return c;
+    }
+    static public int[] D(int n, int[] a, int[] b)
+    {
+        int[] d = new int[n];
+        int g = 0;
+        try
+        {
+            for (int i = 0; i < n; i=i+2)
+            {
+                
+                    d[i] = a[g];
+                    d[i + 1] = b[g];
+                g++;
+            }
+            d[n+1] = 543;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Ошибка: " + ex.Message);
+        }
+
+        return d;
+    }
+}
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Введите размернсть массива: ");
+       
+        int n = Int32.Parse(Console.ReadLine());
+        Console.Write("Массив а: ");
+        MasA mas = new MasA(n);
+        mas.A=q(n);
+        mas.info();
+
+        Console.WriteLine();
+
+        Console.Write("Массив b: ");
+        MasB masb = new MasB(n);
+        masb.B = q(n);
+        masb.info();
+
+ Console.WriteLine();
+
+        Console.Write("Массив c: ");
+        MasC masc = new MasC(n);
+        masc.C = Q(n,mas.A,masb.B);
+        masc.info();
+
+        Console.WriteLine();
+
+        Console.Write("Массив d: ");
+        MasD masd = new MasD(n);
+        masd.D = Z(n, mas.A, masb.B);
+        masd.info();
+    }
+    class MasA
+    {
+       private int[] a;
+        protected int n;
+        public MasA(int n)
+        {
+            this.n = n;
+        }
+        public int[] A
+        {
+            set
+            {
+                a = value;
+            }
+            get
+            {
+                return a;
+            }
+        }
+   
+        public virtual void info()
+        {
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("{0} ", a[i]);
+            }
+        }
+    }
+    class MasB: MasA
+    {
+        private int[] b;
+        public MasB(int n):base(n) {        }
+       
+        public int[] B
+        {
+            set
+            {
+                b = value;
+            }
+            get
+            {
+                return b;
+            }
+        }
+        public override void info()
+        {
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("{0} ", b[i]);
+            }
+        }
+    }
+    class MasC : MasB
+    {
+        private int[] c;
+        public MasC(int n) : base(n) { }
+
+        public int[] C
+        {
+            set
+            {
+                c = value;
+            }
+            get
+            {
+                return c;
+            }
+        }
+        public override void info()
+        {
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("{0} ", c[i]);
+            }
+        }
+    }
+    class MasD : MasC
+    {
+        private int[] d;
+        public MasD(int n) : base(n) { }
+
+        public int[] D
+        {
+            set
+            {
+                d = value;
+            }
+            get
+            {
+                return d;
+            }
+        }
+        public override void info()
+        {
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("{0} ", d[i]);
+            }
+        }
+    }
+    static public int[] q(int n)
+    {
+        int[] a = new int[n];
+        Random r = new Random();
+        for (int i = 0; i < n; i++)
+        {
+            a[i] = r.Next(0, 10);
+        }
+        return a;
+    }
+    static public int[] Q(int n, int[]a,int[]b)
+    {
+        int[] c = new int[n];
+        
+        try
+        {
+            for (int i = 0; i < n; i++)
+            {
+                c[i] = a[i] / b[i];
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Ошибка: " + ex.Message);
+        }
+      
+        return c;
+    }
+    static public int[] Z(int n, int[] a, int[] b)
+    {
+        int[] d = new int[n];
+        int g = 0;
+        try
+        {
+            for (int i = 0; i < n; i=i+2)
+            {
+                
+                    d[i] = a[g];
+                    d[i + 1] = b[g];
+                g++;
+            }
+            d[n+1] = 543;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Ошибка: " + ex.Message);
+        }
+
+        return d;
+    }
+}
+/////////////////////////////////////////////////////////////
+
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        int n = 10;
+        int[] a = q(n);
+int[] b = q(n);
+        Console.Write("Массив а: ");
+        for (int i = 0; i < n; i++)
+        {
+
+            Console.Write("{0} ", a[i]);
+        }
+        Console.WriteLine();
+        Console.Write("Массив б: ");
+        for (int i = 0; i < n; i++)
+        {
+
+            Console.Write("{0} ", b[i]);
+        }
+        Console.WriteLine();
+        int s = 0;
+        try
+
+        {
+            Console.Write("Введите номер элемента массива а: ");
+
+            int i = Int32.Parse(Console.ReadLine());
+            Console.Write("Введите номер элемента массива б: ");
+            int g = Int32.Parse(Console.ReadLine());
+            s = a[i-1] + b[g-1];
+        }
+
+        catch (Exception ex)
+        {
+            Console.WriteLine("Ошибка: " + ex.Message);
+        }
+        finally
+        {
+            Console.WriteLine("Сумма = {0}",s);
+        }
+      
+    }
+    static public int[] q(int n)
+    {
+        int[] a = new int[n];
+        Random r = new Random();
+        for (int i = 0; i < n; i++)
+        {
+            a[i] = r.Next(0, 10);
+        }
+        return a;
+    }
+}
+
+
+

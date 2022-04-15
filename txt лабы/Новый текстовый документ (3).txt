@@ -1,0 +1,140 @@
+using System;
+
+class Program
+{
+    public static int GetN()
+    {
+
+        int c = Int32.Parse(Console.ReadLine());
+        return c;
+    }
+
+    public static string GetW(int x)
+    {
+        string abc = "qwertyuiopasdfghjklzxcvbnm";
+
+
+        string pass = "";
+        Random r = new Random();
+        while (pass.Length < x)
+        {
+            pass += abc[r.Next(abc.Length)];
+        }
+        return pass;
+    }
+    public static string GetN(int n)
+    {
+
+
+        string abc = "123456789";
+        string pass = "";
+        Random r = new Random();
+        while (pass.Length < n)
+        {
+            pass += abc[r.Next(abc.Length)];
+        }
+        return pass;
+    }
+
+    public static string GetC(int c)
+    {
+        string abc = "!@#$%^&*()";
+
+
+        string pass = "";
+        Random r = new Random();
+        while (pass.Length < c)
+        {
+            pass += abc[r.Next(abc.Length)];
+        }
+        return pass;
+    }
+
+    public static string GetBW(int bw)
+    {
+        string abc = "qwertyuiopasdfghjklzxcvbnm";
+        abc = abc.ToUpper();
+
+        string pass = "";
+        Random r = new Random();
+        while (pass.Length < bw)
+        {
+            pass += abc[r.Next(abc.Length)];
+        }
+        return pass;
+    }
+
+    static string Shuffle(string s)
+    {
+        Random rand = new Random();
+        char b;
+        char[] chars = s.ToCharArray();
+        for (int i = chars.Length - 1; i > 0; i--)
+        {
+
+            int j = rand.Next(i);
+            b = chars[j];
+            chars[j] = chars[i];
+            chars[i] = b;
+        }
+
+        return new string(chars);
+    }
+
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Введите длину пароля");
+        int l = Int32.Parse(Console.ReadLine());
+
+
+
+        Console.WriteLine("Осталось {0} символов", l);
+        Console.WriteLine("Введите количество спец. символов");
+
+        int c = Int32.Parse(Console.ReadLine());
+
+        while (c > l)
+        {
+            Console.WriteLine("Данные введены неверно");
+            Console.WriteLine("Введите количество спец. символов");
+            c = GetN();
+        }
+
+        int g = l - c;
+
+        Console.WriteLine("Осталось {0} символов", g);
+        Console.WriteLine("Введите количество цифр");
+
+        int n = Int32.Parse(Console.ReadLine());
+
+        while (n > g)
+        {
+            Console.WriteLine("Данные введены неверно");
+            Console.WriteLine("Введите количество цифр");
+            n = GetN();
+        }
+        int b = g - n;
+        Console.WriteLine("Осталось {0} символов", b);
+        Console.WriteLine("Введите количество больших букв");
+
+        int bw = Int32.Parse(Console.ReadLine());
+
+        while (bw > b)
+        {
+            Console.WriteLine("Данные введены неверно");
+            Console.WriteLine("Введите количество больших букв");
+            bw = GetN();
+        }
+        int w = l - (n + c + bw);
+        string word = GetW(w);
+        string number = GetN(n);
+        string chars = GetC(c);
+        string BigWord = GetBW(bw);
+
+        string pass = word + number + chars + BigWord;
+
+        Console.WriteLine("Сгенерированный пароль:" + Shuffle(pass));
+    }
+
+}
+

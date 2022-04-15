@@ -1,0 +1,21 @@
+C:\Users\Jaanaling\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Jaanaling\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Jaanaling\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.SuggestedBindingRedirects.cache
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+E:\лабы\уп по прог\85\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb

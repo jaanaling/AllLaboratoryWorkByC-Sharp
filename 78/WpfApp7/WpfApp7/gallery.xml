@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Gallery>
+  <Image>
+    <Source>Images/T8vbnqou.jpeg</Source>
+    <Description>Horse №1</Description>
+    <Rotation>-40</Rotation>
+  </Image>
+  <Image>
+    <Source>Images/unnamed.png</Source>
+    <Description>Horse №2</Description>
+    <Rotation>-30</Rotation>
+  </Image>
+   <Image>
+    <Source>Images/avatars-000048386817-0tcgxo-t500x500.jpg</Source>
+    <Description>Horse №3</Description>
+    <Rotation>-20</Rotation>
+  </Image> <Image>
+    <Source>Images/3111319.3141565295771274.jpg</Source>
+    <Description>Horse №4</Description>
+    <Rotation>-10</Rotation>
+  </Image> <Image>
+    <Source>Images/artworks-000075892015-lmozvm-t500x500.jpg</Source>
+    <Description>Horse №5</Description>
+    
+  </Image> <Image>
+    <Source>Images/wild-pinto-horse-wallpaper-5322897cdc9f1.jpg</Source>
+    <Description>Horse №6</Description>
+    <Rotation>+10</Rotation>
+  </Image> <Image>
+    <Source>Images/avatars-000064088278-erbzt5-t500x500.jpg</Source>
+    <Description>Horse №7</Description>
+    <Rotation>+20</Rotation>
+  </Image> <Image>
+    <Source>Images/tristan_3_by_polka_doodles_d5n0zje-fullview.jpg</Source>
+    <Description>Horse №8</Description>
+    <Rotation>+30</Rotation>
+  </Image> <Image>
+    <Source>Images/artworks-000119769363-9u5gzv-t500x500.jpg</Source>
+    <Description>Horse №9</Description>
+    <Rotation>+40</Rotation>
+  </Image> <Image>
+    <Source>Images/avatars-000192966677-usioo1-t500x500.jpg</Source>
+    <Description>Horse №10</Description>
+    <Rotation>+50</Rotation>
+  </Image>
+</Gallery>

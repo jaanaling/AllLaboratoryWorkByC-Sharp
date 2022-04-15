@@ -1,0 +1,41 @@
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\EfDbApp.csproj.AssemblyReference.cache
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\MainWindow.g.cs
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\App.g.cs
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\EfDbApp_MarkupCompile.cache
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\EfDbApp_MarkupCompile.lref
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\bin\Debug\EfDbApp.exe.config
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\bin\Debug\EfDbApp.exe
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\bin\Debug\EfDbApp.pdb
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\bin\Debug\EntityFramework.dll
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\bin\Debug\EntityFramework.xml
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\MainWindow.baml
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\EfDbApp.g.resources
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\EfDbApp.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\EfDbApp.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\EfDbApp.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\EfDbApp.csproj.CopyComplete
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\EfDbApp.exe
+C:\Users\Jaanaling\source\repos\EfDbApp\EfDbApp\obj\Debug\EfDbApp.pdb
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\bin\Debug\EfDbApp.exe.config
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\bin\Debug\EfDbApp.exe
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\bin\Debug\EfDbApp.pdb
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\bin\Debug\EntityFramework.dll
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\bin\Debug\EntityFramework.xml
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp.csproj.AssemblyReference.cache
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp.csproj.SuggestedBindingRedirects.cache
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\MainWindow.g.cs
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\App.g.cs
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp_MarkupCompile.cache
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp_MarkupCompile.lref
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\MainWindow.baml
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp.g.resources
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp.Properties.Resources.resources
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp.csproj.GenerateResource.cache
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp.csproj.CoreCompileInputs.cache
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp.csproj.CopyComplete
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp.exe
+E:\лабы\уп по прог\83\EfDbApp\EfDbApp\obj\Debug\EfDbApp.pdb

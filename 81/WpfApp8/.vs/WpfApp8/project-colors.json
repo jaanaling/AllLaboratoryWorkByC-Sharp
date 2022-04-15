@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35cc4590-547b-469f-9713-19dd6d0322ba": {
+      "ProjectGuid": "35cc4590-547b-469f-9713-19dd6d0322ba",
+      "DisplayName": "WpfApp8",
+      "ColorIndex": 0
+    },
+    "73d8e6f4-dfc0-43d7-8258-2e8babda877c": {
+      "ProjectGuid": "73d8e6f4-dfc0-43d7-8258-2e8babda877c",
+      "DisplayName": "WpfApp4",
+      "ColorIndex": 1
+    },
+    "99f89270-5302-4aa2-ad99-8731dcb955f0": {
+      "ProjectGuid": "99f89270-5302-4aa2-ad99-8731dcb955f0",
+      "DisplayName": "WpfApp5",
+      "ColorIndex": 2
+    },
+    "a1457184-b5c7-4c25-a184-6ff6ebc5fdeb": {
+      "ProjectGuid": "a1457184-b5c7-4c25-a184-6ff6ebc5fdeb",
+      "DisplayName": "WpfApp6",
+      "ColorIndex": 3
+    },
+    "c3f2c524-8fdf-4766-aee3-d93d3b2d868f": {
+      "ProjectGuid": "c3f2c524-8fdf-4766-aee3-d93d3b2d868f",
+      "DisplayName": "WpfApp7",
+      "ColorIndex": 4
+    },
+    "0d29200d-4d95-4815-8399-338b8fafc008": {
+      "ProjectGuid": "0d29200d-4d95-4815-8399-338b8fafc008",
+      "DisplayName": "WpfApp9",
+      "ColorIndex": 5
+    },
+    "3fd46298-0980-4b5b-8288-b5f67eff56f1": {
+      "ProjectGuid": "3fd46298-0980-4b5b-8288-b5f67eff56f1",
+      "DisplayName": "WpfApp10",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

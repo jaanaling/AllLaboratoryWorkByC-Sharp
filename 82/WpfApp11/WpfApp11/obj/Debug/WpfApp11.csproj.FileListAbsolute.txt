@@ -1,0 +1,73 @@
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.AssemblyReference.cache
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\System.Security.Permissions.dll
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\System.Security.Permissions.xml
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Jaanaling\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CopyComplete
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.AccessControl.dll
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.Permissions.dll
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.Principal.Windows.dll
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.AccessControl.xml
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.Permissions.xml
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.Principal.Windows.xml
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.AssemblyReference.cache
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.SuggestedBindingRedirects.cache
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CopyComplete
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+E:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.AccessControl.dll
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.Permissions.dll
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.Principal.Windows.dll
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.AccessControl.xml
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.Permissions.xml
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\bin\Debug\System.Security.Principal.Windows.xml
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.AssemblyReference.cache
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CopyComplete
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+F:\лабы\уп по прог\82\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb

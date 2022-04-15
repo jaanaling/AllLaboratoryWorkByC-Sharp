@@ -1,0 +1,9 @@
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Загрузка\bin\Debug\Загрузка.exe.config
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Загрузка\bin\Debug\Загрузка.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Загрузка\bin\Debug\Загрузка.pdb
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Загрузка\obj\Debug\Загрузка.Form1.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Загрузка\obj\Debug\Загрузка.Properties.Resources.resources
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Загрузка\obj\Debug\Загрузка.csproj.GenerateResource.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Загрузка\obj\Debug\Загрузка.csproj.CoreCompileInputs.cache
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Загрузка\obj\Debug\Загрузка.exe
+C:\Users\Jaanaling\source\repos\WindowsFormsApp12\Загрузка\obj\Debug\Загрузка.pdb

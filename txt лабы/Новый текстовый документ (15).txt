@@ -1,0 +1,54 @@
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Car car = new Car(140, 4, "Tesla", "Пластик", "Петров");
+        IBoardInfo info = (IBoardInfo)car;
+        info.Status();
+
+        info.Doors();
+        info.Info();
+
+    }
+    interface IBoardInfo
+    {
+        void Status();
+        void Doors();
+        void Info();
+
+    }
+    class Car: IBoardInfo
+    {
+        
+        protected int peoples;
+        protected int speed;
+        protected string material;
+        protected string mark;
+        protected string owner;
+
+        public Car(int speed, int people, string mark, string material, string owner)
+        {
+            this.speed = speed;
+            this.peoples = people;
+            this.mark = mark;
+            this.material = material;
+            this.owner = owner;
+        }
+    
+        void IBoardInfo.Status()
+        {
+            Console.WriteLine("В движении");
+        }
+        void IBoardInfo.Doors()
+        {
+            Console.WriteLine("Двери закрыты");
+        }
+        void IBoardInfo.Info()
+        {
+            Console.WriteLine("Вместимость - " + this.peoples + ", Производитель - " + this.mark + ", Скорость - " + this.speed + "км/ч , материал - " + this.material + ", владелец - " + this.owner); 
+        }
+    }
+
+}
